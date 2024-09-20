@@ -1,0 +1,54 @@
+body{
+background-color:#E1C16E;
+}
+div{
+	background-color:#6F8FAF;
+	max-width:80%;
+	margin:50px auto;
+}
+header{
+	background-color:yellow;
+	padding:10px;
+}
+nav{
+	background-color:#7C3030;
+	color:white;
+	padding:10px;
+}
+
+form{
+	background-color:gray;
+	width:60%;
+	padding:20px;
+	margin:0 auto;
+}
+header,footer{
+	background-color:#6495ED;
+	text-align:center;
+	color:white;
+	padding:6px;
+}
+img{
+	height:100px;
+	width:100px;
+    border-radius:50%;
+}
+img:hover{
+	border:4px solid darkred;
+}
+a:hover,a:active{
+	background-color:green;
+	color:red;
+}
+section.111{
+	background-color:purple;
+	color:white;
+	padding:20px;
+}
+section.222{
+	background-color:dark-blue;
+	color:white;
+	padding:10px;
+width:100%;
+}
+
